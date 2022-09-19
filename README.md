@@ -68,7 +68,7 @@ I'm currently learning Python and Ethereum.
 
 ## :inbox_tray:Blogging and Writing
 
-Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [sergiobarria.com]
+Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [rowjay.vercel.app]
 
 ### Latest Posts
 
