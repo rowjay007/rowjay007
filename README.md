@@ -9,7 +9,7 @@
 
 I'm a Software Developer.
 
-I have a bachelor's degree in Business Administration and Diploma in Advance Software Enginnering.
+I have a bachelor's degree in Business Administration and Diploma in Advanced Software Enginnering.
 
 I love building responsive and aesthetic mobile-first design.
 
