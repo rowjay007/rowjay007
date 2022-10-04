@@ -13,11 +13,11 @@ I have a bachelor's degree in Business Administration and Diploma in Advanced So
 
 I love building responsive and aesthetic mobile-first design.
 
-I stated my coding career as an Investment Banker learning Database Management.
+I started my coding career as an Investment Banker learning Database Management.
 
-I stated my web developement journey with simple HTML, CSS and JavaScriptt. currently, I use JavaScripts framweorks like React and NextJs, and also improving my backend experience with NodeJs.
+I started my web developement journey with simple HTML, CSS and JavaScriptt. currently, a MERN stack developer, stacking with TypeScript and NextJs
 
-I'm currently learning Python and Ethereum.
+I'm currently learning Web3 with Solidity on the Ethereum ecosystem.
 
 ## Programming Languages and Tools I use
 
