@@ -7,17 +7,9 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
 </p>
 
-I'm a Software Developer.
+I started my career as an Investment banker and transitioned from database management to coding. 
 
-I have a bachelor's degree in Business Administration and Diploma in Advanced Software Enginnering.
-
-I love building responsive and aesthetic mobile-first design.
-
-I started my coding career as an Investment Banker learning Database Management.
-
-I started my web developement journey with simple HTML, CSS and JavaScriptt. currently, a MERN stack developer, stacking with TypeScript and NextJs
-
-I'm currently learning Web3 with Solidity on the Ethereum ecosystem.
+I assist organizations in efficiently building and scaling technology using the most lean and effective methods.
 
 ## Programming Languages and Tools I use
 
