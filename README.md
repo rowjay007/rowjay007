@@ -65,6 +65,7 @@ Apart from coding, I also mantain my personal blog/portfolio. You can find my ar
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Authentication with Next-Auth in Next.js](https://rowjay.vercel.app/blogs/supercharge-your-authentication-with-next-auth-in-next-js)
 - [A walkthrough on useMemo and useCallback](https://rowjay.vercel.app/blog/a-walkthrough-on-usememo-and-usecallback)
 - [Introduction to useState and useEffect in React](https://rowjay.vercel.app/blog/introduction-to-usestate-and-useeffect-in-react)
 - [A Guide to the React useContext Hook](https://rowjay.vercel.app/blog/a-guide-to-the-react-usecontext-hook)
