@@ -49,9 +49,10 @@ I assist organizations in efficiently building and scaling technology using the 
 ## :chart_with_upwards_trend:General Stats
 
 <div>
+ 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rowjay007&theme=gotham&show_icons=true" alt="rowjay007" />
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" alt="sergiobarria" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" />
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Adimoha&layout=compact&theme=gotham&langs_count=6&v=2" alt="rowjay007" />
 </div>
@@ -60,7 +61,7 @@ I assist organizations in efficiently building and scaling technology using the 
 
 ## :inbox_tray:Blogging and Writing
 
-Apart from coding, I also mantain my personal blog/portfolio. You can find my articles on my website [rowjay.vercel.app]
+In addition to my coding endeavours, I passionately curate and nurture my personal blog and portfolio, where my articles and insights await your discovery on my dedicated website. [rowjay.vercel.app]
 
 ### Latest Posts
 
