@@ -50,14 +50,13 @@ I assist organizations in efficiently building and scaling technology using the 
 
 <div>
  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rowjay007&theme=gotham&show_icons=true" alt="rowjay007" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=rowjay007&theme=dark)](https://git.io/streak-stats)
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" />
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Adimoha&layout=compact&theme=gotham&langs_count=6&v=2" alt="rowjay007" />
-</div>
 
-**Note**: Wakatime stats since Feb 24, 2022
+</div>
 
 ## :inbox_tray:Blogging and Writing
 
