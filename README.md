@@ -37,6 +37,18 @@
   <img alt="firebase" src="https://img.shields.io/badge/-firebase-FFCB2D?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
   <img alt="react native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Travis" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+ 
+
+   
+ 
+</p>
 </p>
 
 ### Headless CMS
