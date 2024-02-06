@@ -7,9 +7,9 @@
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=sergiobarria&color=FAC151" />
 </p>
 
-I started my career as an Investment banker and transitioned from database management to coding. 
+<!-- I started my career as an Investment banker and transitioned from database management to coding.  -->
 
-I assist organizations in efficiently building and scaling technology using the most lean and effective methods.
+<!-- I assist organizations in efficiently building and scaling technology using the most lean and effective methods. -->
 
 ## Programming Languages and Tools I use
 
