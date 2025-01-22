@@ -62,7 +62,7 @@
 
 <div>
  
- [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nirzak)]
+ [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rowjay007)]
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" />
 
