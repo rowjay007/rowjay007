@@ -68,6 +68,8 @@
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Adimoha&layout=compact&theme=gotham&langs_count=6&v=2" alt="rowjay007" />
 
+  ![Snake animation](https://raw.githubusercontent.com/rowjay007/rowjay007/output/github-contribution-grid-snake-dark.svg)
+
 
 </div>
 
