@@ -62,7 +62,7 @@
 
 <div>
  
- ![GitHub Streak](https://streak-stats.demolab.com?user=rowjay007&theme=dark)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rowjay007&theme=monokai" alt="GitHub Streak" /></a>
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" />
 
