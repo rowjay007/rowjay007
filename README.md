@@ -62,7 +62,7 @@
 
 <div>
  
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rowjay007&theme=monokai" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rowjay007&theme=nightowl)](https://git.io/streak-stats)
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowjay007&layout=compact&theme=gotham&langs_count=6" alt="rowjay007" />
 
